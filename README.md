@@ -1,6 +1,6 @@
 # Customer-churn-prediction
-* the dataset has been taken from kaggle WA_Fn-UseC_-Telco-Customer-Churn.csv
 * Goal of this project is to implement machine learning model to predict customer churn/customer attrition of a telecom company
+* The Dataset has been taken from https://www.kaggle.com/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv
 * As a part of customer retention program, this model can help management to make correct decisions on their future plans
 
 # Technology Stack 
